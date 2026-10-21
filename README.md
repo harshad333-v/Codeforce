@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 11 | 7 |
+| 12 | 7 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [data structures](#data-structures) (1)
 - [greedy](#greedy) (2)
 - [implementation](#implementation) (6)
-- [math](#math) (6)
+- [math](#math) (7)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (1)
 
@@ -61,6 +61,7 @@
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Python 3](https://github.com/harshad333-v/Codeforce/blob/HEAD/4/A%20-%20Watermelon/solution.py) |
 | 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [Python 3](https://github.com/harshad333-v/Codeforce/blob/HEAD/69/A%20-%20Young%20Physicist/solution.py) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Java 21](https://github.com/harshad333-v/Codeforce/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.java) |
+| 598A | [Tricky Sum](https://codeforces.com/contest/598/problem/A) | 900 | [Java 21](https://github.com/harshad333-v/Codeforce/blob/HEAD/598/A%20-%20Tricky%20Sum/solution.java) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [Java 21](https://github.com/harshad333-v/Codeforce/blob/HEAD/617/A%20-%20Elephant/solution.java) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [Java 21](https://github.com/harshad333-v/Codeforce/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.java) |
 | 2195A | [Sieve of Erato67henes](https://codeforces.com/contest/2195/problem/A) | 800 | [Java 21](https://github.com/harshad333-v/Codeforce/blob/HEAD/2195/A%20-%20Sieve%20of%20Erato67henes/solution.java) |
