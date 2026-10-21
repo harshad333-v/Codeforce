@@ -6,12 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 12 | 7 |
+| 13 | 8 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (3)
 - [data structures](#data-structures) (1)
 - [greedy](#greedy) (2)
@@ -21,6 +22,12 @@
 - [sortings](#sortings) (1)
 
 ---
+
+### bitmasks
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 579A | [Raising Bacteria](https://codeforces.com/contest/579/problem/A) | 1000 | [Java 21](https://github.com/harshad333-v/Codeforce/blob/HEAD/579/A%20-%20Raising%20Bacteria/solution.java) |
 
 ### brute force
 
