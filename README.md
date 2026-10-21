@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 10 | 6 |
+| 11 | 7 |
 
 ---
 
@@ -16,7 +16,8 @@
 - [data structures](#data-structures) (1)
 - [greedy](#greedy) (2)
 - [implementation](#implementation) (6)
-- [math](#math) (5)
+- [math](#math) (6)
+- [number theory](#number-theory) (1)
 - [sortings](#sortings) (1)
 
 ---
@@ -62,6 +63,13 @@
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Java 21](https://github.com/harshad333-v/Codeforce/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.java) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [Java 21](https://github.com/harshad333-v/Codeforce/blob/HEAD/617/A%20-%20Elephant/solution.java) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [Java 21](https://github.com/harshad333-v/Codeforce/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.java) |
+| 2195A | [Sieve of Erato67henes](https://codeforces.com/contest/2195/problem/A) | 800 | [Java 21](https://github.com/harshad333-v/Codeforce/blob/HEAD/2195/A%20-%20Sieve%20of%20Erato67henes/solution.java) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2195A | [Sieve of Erato67henes](https://codeforces.com/contest/2195/problem/A) | 800 | [Java 21](https://github.com/harshad333-v/Codeforce/blob/HEAD/2195/A%20-%20Sieve%20of%20Erato67henes/solution.java) |
 
 ### sortings
 
