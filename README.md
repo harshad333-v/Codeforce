@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 14 | 9 |
+| 15 | 9 |
 
 ---
 
@@ -16,11 +16,11 @@
 - [brute force](#brute-force) (4)
 - [data structures](#data-structures) (1)
 - [greedy](#greedy) (2)
-- [implementation](#implementation) (7)
+- [implementation](#implementation) (8)
 - [math](#math) (7)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (1)
-- [strings](#strings) (1)
+- [strings](#strings) (2)
 
 ---
 
@@ -60,6 +60,7 @@
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/harshad333-v/Codeforce/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Java 21](https://github.com/harshad333-v/Codeforce/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.java) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [Python 3](https://github.com/harshad333-v/Codeforce/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.py) |
+| 977B | [Two-gram](https://codeforces.com/contest/977/problem/B) | 900 | [Java 21](https://github.com/harshad333-v/Codeforce/blob/HEAD/977/B%20-%20Two-gram/solution.java) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [Java 21](https://github.com/harshad333-v/Codeforce/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.java) |
 | 1512A | [Spy Detected!](https://codeforces.com/contest/1512/problem/A) | 800 | [Java 21](https://github.com/harshad333-v/Codeforce/blob/HEAD/1512/A%20-%20Spy%20Detected!/solution.java) |
 | 1703B | [ICPC Balloons](https://codeforces.com/contest/1703/problem/B) | 800 | [Java 21](https://github.com/harshad333-v/Codeforce/blob/HEAD/1703/B%20-%20ICPC%20Balloons/solution.java) |
@@ -93,6 +94,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/harshad333-v/Codeforce/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
+| 977B | [Two-gram](https://codeforces.com/contest/977/problem/B) | 900 | [Java 21](https://github.com/harshad333-v/Codeforce/blob/HEAD/977/B%20-%20Two-gram/solution.java) |
 
 ---
 
